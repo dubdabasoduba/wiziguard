@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="54671672073875"
+    token="6761475330273898357" >
+
+    <task
+        name="javac"
+        duration="16369" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1852" />
+    <task
+        name="verifier"
+        duration="303" />
+
+    <artifact
+        location="C:\Users\Amisa\AndroidStudioProjects\wiziguard\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="54671672073875" >
+        <artifact
+            location="C:\Users\Amisa\AndroidStudioProjects\wiziguard\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
