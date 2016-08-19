@@ -6,8 +6,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.example.amisa.wiziguard.R;
-
 public class register extends AppCompatActivity {
 	EditText FName;
 	EditText LName;

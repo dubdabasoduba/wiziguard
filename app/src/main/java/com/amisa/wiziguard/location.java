@@ -18,8 +18,6 @@ import android.util.Log;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.amisa.wiziguard.R;
-
 import java.io.IOException;
 import java.util.List;
 import java.util.Locale;
@@ -42,7 +40,7 @@ public class location extends AppCompatActivity {
 		longitude = (TextView) findViewById(R.id.lon);
 		provText = (TextView) findViewById(R.id.prov);
 		/*choice = (TextView) findViewById(R.id.choice);
-	    fineAcc = (CheckBox) findViewById(R.id.fineAccuracy);
+		fineAcc = (CheckBox) findViewById(R.id.fineAccuracy);
         choose = (Button) findViewById(R.id.chooseRadio);*/
 		TextView address = (TextView) findViewById(R.id.address);
 
